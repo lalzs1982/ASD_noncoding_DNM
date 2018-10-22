@@ -31,5 +31,8 @@ a, for all coding region:
 b, for coding region excluding damaging nonsynonymous mutations:
 c, for synonymous mutation regions:
 
+(4), Overenrichment of DNMs among predicted damaging nonsynonymous sits in ASD, ID, DD, samples, but not in normal samples
+
+
 
 4, Conclusions
