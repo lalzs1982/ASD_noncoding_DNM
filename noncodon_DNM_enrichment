@@ -2,6 +2,8 @@ Coding region DNM overenrichment that may not be contributed by codon changes
 
 1, Data:
 (1), DNM lists from several WES stduies of neuropsychiatric disorders:
+
+
 (2), RBP binding sites downloaded from the CLIPdb dataset
 (3), Potential functional mutation predicted by the RBP-var2 software tool
 (4), Ribsnitch predicted by the RNAsnp software (p<0.05)
