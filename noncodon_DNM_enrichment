@@ -1,0 +1,35 @@
+Coding region DNM overenrichment that may not be contributed by codon changes
+
+1, Data:
+(1), DNM lists from several WES stduies of neuropsychiatric disorders:
+(2), RBP binding sites downloaded from the CLIPdb dataset
+(3), Potential functional mutation predicted by the RBP-var2 software tool
+(4), Ribsnitch predicted by the RNAsnp software (p<0.05)
+(5), damaging nonsynonymous mutations was predicted by Polyphen2_HVAR (classified as P or D) and CADD (phered score > 30) 
+(6), genome-wide DNM rate was obtained from published work of #
+and the coding regions excluding consensus splicing sites or splicing sites predcited by SPIDEX software tool (p<0.01) 
+according to the ENCODE gene annotation was analyzed in this work.
+
+2, Methods:
+Rate of DNM for specified genomic regions (for example RBP binding sites) vs rest of coding regions analyzed (as mentioned above) 
+was compared and the binomial test was used to estimate the difference significance. The expected DNM rate differences between genomic 
+regions was calculated using the sum of point DNM rates across region.       
+
+3, Results:
+(1), Overenrichment of DNMs among mutations predicted as Cate1/2 by RBP-var2 in ASD, ID, DD, samples, but not in normal samples: 
+a, for all coding regions:
+b, for coding region excluding damaging nonsynonymous mutations:
+c, for synonymous mutation regions:
+
+(2), Overenrichment of DNMs among RBP binding regions in ASD, ID, DD, samples, but not in normal samples
+a, for all coding region:
+b, for coding region excluding damaging nonsynonymous mutations:
+c, for synonymous mutation regions:
+
+(3), Overenrichment of DNMs among predicted Ribsnitch regions in ASD, ID, DD, samples, but not in normal samples
+a, for all coding region:
+b, for coding region excluding damaging nonsynonymous mutations:
+c, for synonymous mutation regions:
+
+
+4, Conclusions
