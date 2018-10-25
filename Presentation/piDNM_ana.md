@@ -26,27 +26,37 @@ according to the ENCODE gene annotation was analyzed in this work, there're are 
 2, Methods:
 Rate of DNM for specified genomic regions (for example RBP binding sites) vs rest of coding regions analyzed (as mentioned above)
 was compared and the binomial test was used to estimate the difference significance. The expected DNM rate differences between genomic
-regions was calculated using the sum of point DNM rates across region.       
+regions was calculated using the sum of point DNM rates across region.         
 
 3, Results:
+In each plot bellow, we want to show the overenrichment of DNMs within each potantial genomic regions for each study seperately. Considering different mutation effect for different coding regions, we seperate the coding regions to different categories (synonymous, nonsynonymous, damaging) for DNM overenrichment analysis, with aim to distinguish different mutation effects.
+
+The title on the plot show the DNM data used, which include data name (first author/organization), publication year/journal and followed by the specific diseases. the x-axis show different genomic regions and the y-axis show the over-enrichment of DNMs (fold change) in each region compared with control region (regions not annotated as functional from any known resources). Each red circle represent one potantial genomic region, with region name and overenrichment test p value (binomial) labeled.
+
 (1), Overenrichmen of synonymous DNMs within potential functional regions:
 https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg.syn_nonsplicing.dnm.enrich.pdf
 
+Explaination: missing data because of small datasets
+
 (2), Overenrichmen of nonsynonymous DNMs predicted as nondamaging by Polyphen and CADD within potential functional regions:
 https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg.nondam_nsy.dnm.enrich.pdf
+Explaination: a, overall we found over enrichment DNMs in RBP binding sites (CLIPdb) across all studies, and this is especially true for neuron function related genes; b, unfortunately there's no DNM overenrichment for ribsnitch or RBPvar2; c, we observed low DNM overenrichment on normal samples comapred with disease samples. 
 
 (3), Overenrichmen of nondamaging nonsynonymous DNMs (same as above) and synonymous DNMs together within potential functional regions:
 https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg.syn_nondam_nsy.dnm.enrich.pdf
+Explaination: similar to nonsynonymous DNMs only analysis considering synonymous mutations only take up small part.
 
 (4), comparison of DNM overenrichment on damaging nonsynonymous mutations with other regions:
 https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg.damagNS_included.syn_nsy.dnm.enrich.pdf
-
-
+Explaination: 
+damaging nonsynonymous mutations was not show high impact on DNM overenrichment.
 
 4, Conclusions
+We found overenrichment of DNMs on RBP binding regions, and among neuropsychaitric related genes.
 
 5, supplementary data
-all detailed analysis data was put in table files that can be downloaded:
+all detailed analysis data was put in table files that can be viwed or downloaded:
+
 (1), Overenrichmen of synonymous DNMs within potential functional regions:
 https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg.syn_nonsplicing.dnm.enrich
 
