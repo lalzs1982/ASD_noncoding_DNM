@@ -27,13 +27,14 @@ https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/tt.WES_a
 Figure legends: each figure for one study, and each point represent one region, the y-axis is to show overenrichemnt using two-sided binomial test, the number on the figure represent the DNM counts observed in the regions, and * to indicate binomia test p value < 0.05, ** for < 0.001 and *** for <0.0001, the vertical line to show 95% confidence interval for overenrichment ratio based on binomial test results. 
 
 b, fold change of DNM rate in different genomic regions compared to synonymous mutation regions in different studies, this figure show for neuron-spychaitric related genes:
+https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/tt.WES_neurongenes.dnm.enrich.pdf
 
 c, fold change of DNM rate in different genomic regions compared to synonymous mutation regions in different studies, this figure show for lowly expressed genes in human brain:
-
+https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/tt.WES_brain_lowexprgenes.dnm.enrich.pdf
 
 2, for WGS dataset:
 a, fold change of DNM rate in different genomic regions in Case vs COntrol, compared to synonymous mutation regions, this figure show for neuron-spychaitric related genes:
-
+https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/tt.WGS_neurongenes.dnm.enrich.pdf
 
 
 Summary:
