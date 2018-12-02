@@ -5,3 +5,5 @@ https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/func_reg
 I can insert some pictures here:
 
 ![alt text] (https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/CLIPdb_RBPs_regions.dnm.mr.dnm.enrich.pdf)
+
+![] (Presentation/CLIPdb_RBPs_regions.dnm.mr.dnm.enrich.pdf)
