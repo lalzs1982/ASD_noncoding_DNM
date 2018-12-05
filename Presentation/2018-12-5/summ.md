@@ -11,7 +11,9 @@ breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Tre
 3, add new functional region: overlap between RNA folding (RNAfold) and RBP binding sites (RBP&RNAfold) in the WGS dataset analysis part  
 
  Results:
+ 
  1, WES data analysis (comparison of DNM count in specific regions with background mutation rate, using synonymous DNMs for study-specific normalization)
+ 
  1.1, for all mutations
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-5/tt.WES_neurongenes.dnm.enrich.pdf
  
@@ -22,6 +24,7 @@ breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Tre
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-5/tt.WES_brain_lowexprgenes.dnm.enrich.pdf
  
  2, WGS data analysis (comparison of DNM count in specific regions between case and control datasets, using synonymous DNMs for study-specific normalization)
+ 
  2.1, for all mutations
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-5/tt.WGS_all.dnm.enrich.pdf
  
