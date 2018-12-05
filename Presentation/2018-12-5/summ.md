@@ -2,6 +2,7 @@ Analysis of overenrichment of DNMs in post-transcriptional functional sites
 (details of data and method description please refer to https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/piDNM_ana.md)
 
 updates including:
+
 1, add CLIP RBP that are reported to be related to human disorders based on OMIM records (CLIPdb(OMIM)), 
 breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Trends Genet. 2013 ), as a result, 7 of total 56 RBP from CLIPdb are related to human disorders.
 
