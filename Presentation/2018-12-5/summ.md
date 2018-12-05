@@ -7,6 +7,8 @@ breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Tre
 
 2, for neuronfunction related genesets, I simply use 108 genes based on TADA predictions (FDR<0.2), rather than 2,555 used before
 
+3, add new functional region: overlap between RNA folding (RNAfold) and RBP binding sites (RBP&RNAfold) in the WGS dataset analysis part  
+
  Results:
  1, WES data analysis (comparison of DNM count in specific regions with background mutation rate, using synonymous DNMs for study-specific normalization)
  1.1, for all mutations
