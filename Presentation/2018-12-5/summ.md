@@ -36,8 +36,11 @@ breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Tre
  Conclusions:
  
 1, LOF, damaging Nonsynonymous and splicing site predicted by spidex tend to be highly mutable;
+
 2, minor but nonsignificant mutation enrichment for RBP binding sites;
+
 3, lower mutation burden in NonMental genesets (negative control);
+
 4, caution when analysis of mutation burden using gene sets that was defined based on our DNM data collections (such as ASD_risk_genes_TADA_FDR0.3, Developmental_delay_DDD etc.)
 
  
