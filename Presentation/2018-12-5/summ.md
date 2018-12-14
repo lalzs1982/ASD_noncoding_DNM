@@ -15,17 +15,21 @@ breifly, 157 RBP recorded in OMIM were obtained from Castello A et al work  (Tre
  1, WES data analysis (comparison of DNM count in specific regions with background mutation rate, using synonymous DNMs for study-specific normalization)
  
  1.1, for all mutations
+ 
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-13/tt.WES_all.dnm.enrich.pdf
  
  1.2, for mutations from within neurofunction related genes
+ 
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-13/tt.WES_neurongenes.dnm.enrich.pdf
  
  2, WGS data analysis (comparison of DNM count in specific regions between case and control datasets, using synonymous DNMs for study-specific normalization)
  
  2.1, for all mutations
+ 
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-13/tt.WGS_all.dnm.enrich.pdf
  
  2.2, for mutations from within neurofunction related genes
+ 
  https://github.com/lalzs1982/ASD_noncoding_DNM/blob/master/Presentation/2018-12-13/tt.WGS_neurongenes.dnm.enrich.pdf
  
  
